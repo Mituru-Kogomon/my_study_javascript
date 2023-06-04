@@ -1,2 +1,2 @@
-# my-study-javascript
+# my_study_javascript
 For javascript study
