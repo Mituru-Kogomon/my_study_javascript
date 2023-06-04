@@ -227,7 +227,7 @@ for (let i = 0; i < numbers.length; i++) {
         result.innerHTML = secondValue;
         break;
     };
-    clear.textContent = 'C';
+    clear.textContent = 'DC';
   });
 }
 
