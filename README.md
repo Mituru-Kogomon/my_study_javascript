@@ -1,2 +1,2 @@
-# my-study-python
-For python study
+# my-study-javascript
+For javascript study
